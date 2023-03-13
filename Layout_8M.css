@@ -1,0 +1,347 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif ;
+}
+#web{
+    
+    height: 100%;
+    /*aqui hay que revisar el ancho de la pagina*/
+}
+header{
+    
+    height: 11rem;
+    background-color: #7f4796;
+    display: flex;
+    padding: 4% 20% 10% 20% ;
+}
+#titulo{
+    width: 50%;
+    height: 14rem;
+    margin-top: 2rem;
+    
+
+}
+.block1{
+    color: white;
+    width: 20rem;
+    height: 2rem;
+    margin-bottom: 1rem;
+
+}
+.block2{
+    color: white;
+    width: 40rem;
+    height: 2rem;
+    margin-top: 1rem;
+}
+.mani{
+    border: white solid;
+    border-radius: 5px;
+    background-color: white;
+    width: 35px;
+    height: 25px;
+    margin-right: 1rem;
+    font-size: 1rem;
+    padding: 10px;
+    
+}
+.acti{
+    border:  rgb(255, 255, 255) solid;
+    border-radius: 5px;
+    background-color: #7f4796;
+    width: 35px;
+    height: 25px;
+    font-size: 1rem;
+    color: white;
+    padding: 10px;
+    margin-right: 1rem;
+}
+#activities{
+    width: 50%;
+    height: 14rem;
+    list-style:none;
+    margin-left: 10rem;
+
+}
+#Asoc{
+    
+    background-color: #7f4796;
+    width: 35px;
+    height: 25px;
+    font-size: 1rem;
+    color: white;
+    padding: 10px;
+    margin-right: 1rem;
+    
+}
+#event_father{
+    
+    height: 11rem;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding: 6% 15% 0% 15% ;
+}
+#event{
+    
+}
+#destacado{
+    width: 25rem;
+    height: 2rem;
+    text-align: center;
+    margin-left: 3rem;
+}
+#fotos{
+    
+    height: 30rem;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+#Alba{
+    width: 25rem;
+    height: 2rem;
+    text-align: center;
+    margin: 2rem;
+    
+}
+#atalufo{
+    width: 200px;
+    height: 20rem;
+    margin: 2rem;
+    text-align: center;
+    padding: 1rem;
+    box-shadow: 5px 5px 40px;
+    border-radius: 10px;
+}
+#adaline{
+    width: 200px;
+    height: 20rem;
+    margin: 2rem;
+    text-align: center;
+    padding: 1rem;
+    box-shadow: 5px 5px 40px;
+    border-radius: 10px;
+}
+#clarissa{
+    width: 200px;
+    height: 20rem;
+    margin: 2rem;
+    text-align: center;
+    padding: 1rem;
+    box-shadow: 5px 5px 40px;
+    border-radius: 10px;
+}
+#paul{
+    width: 200px;
+    height: 20rem;
+    margin: 2rem;
+    text-align: center;
+    padding: 1rem;
+    box-shadow: 5px 5px 40px;
+    border-radius: 10px;
+}
+.imagenes{
+    border-radius: 75px;
+    width: 4rem;
+    height: 4rem;
+}
+.perfil{
+    margin:2px;
+    margin-top: 5px;
+    font-size: 10px ;
+}
+.simbolos{
+    width: 15px;
+    height: 15px;
+
+}
+.apuntate{
+    
+    height: 10rem;
+    background-color: #7f4796;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#charlas{
+    width: 18rem;
+    height: 1rem;
+    color: white;
+    font-weight:bolder;
+}
+
+#salidas_father{
+    
+    height: 5rem;
+    background-color: white;
+    text-align: center;
+    margin-top: 2rem;
+
+}
+#salidas1{
+    
+    height: 15rem;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+
+}
+
+#salidas2{
+    
+    height: 15rem;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+
+}
+.columnas{
+    width: 350px;
+    height: 200px;
+    box-shadow: 5px 5px 20px;
+    margin: 2rem;
+    text-align: justify;
+    padding: 1rem;
+    border-radius: 10px;
+}
+.learn{
+    margin-top: 1rem;
+    color: rgb(48, 167, 246);
+}
+#News{
+    
+    height: 20rem;
+    background-color: #7f4796;
+    margin-top: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem;
+}
+#newsletter{
+    width: 800px;
+    height: 130px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+    border-radius: 10px;
+}
+#point{
+    width: 300px;
+    height: 200px;
+    margin-right: 2rem;
+    margin-top: 3rem;
+}
+#aprender{
+    
+    height: 15rem;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+.columnas2{
+    width: 450px;
+    height: 200px;
+    box-shadow: 5px 5px 20px;
+    margin: 2rem;
+    text-align: justify;
+    padding: 1rem;
+    display: flex;
+    border-radius: 10px;
+}
+.columnas3{
+    width: 400px;
+    height: 200px;
+    box-shadow: 5px 5px 20px;
+    margin: 2rem;
+    text-align: justify;
+    padding: 1rem;
+    border-radius: 10px;
+}
+.caja2{
+    width: 300px;
+    height: 120px;
+    padding: 1rem;
+}
+.caja1{
+    width: 320px;
+    height: 150px;
+    margin-top: 1rem;    
+}
+.cuidar1{
+    width: 80px;
+    height: 80px;
+    align-self: center;
+    margin-left: 2rem;
+}
+.cuidar2{
+    width: 70px;
+    height: 70px;
+    margin-left: 1rem;
+    border-radius: 10px;
+
+}
+.learn1{
+    width: 280px;
+    margin-left: 1rem;
+}    
+.learn2{
+    width: 300px;
+    font-size: 15px;
+    margin-left: 1rem;
+}
+.learn3{
+    margin-top: 2rem;
+    color: rgb(48, 167, 246);
+}
+.read{
+     
+    height: 40rem;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 4rem;
+}
+.boxs{
+    width: 20%;
+    height: 50%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px;
+    border-radius: 10px;
+}
+.simbol{
+    height: 40%;
+    background-color: aliceblue;
+    border-radius: 10px 10px 0 0;
+}
+.simbol1{
+    height: 35%;
+    background-color: #b3c79c;
+}
+.simbol2{
+    height: 35%;
+    background-color: #ccc6c6 ;
+}
+.simbol3{
+    height: 35%;
+    background-color: #dcf9f4 ;
+}
+.extra{
+    width: 20%;
+    height: 55%;
+    
+}
+.min{
+    font-size: 13px;
+    color: rgb(166, 160, 160);
+    margin-left: 5px;
+}
